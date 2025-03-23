@@ -20,8 +20,11 @@ Follow these steps to set up the project on your local machine:
 1️⃣ **Clone the repository**  
 ```bash
 git clone https://github.com/Rasmitha05/CHEFGURU.git
+2️⃣ Navigate to the project folder
 cd CHEFGURU
+3️⃣ Install dependencies
 npm install
+4️⃣ Start the development server
 npm start
 5️⃣ Open your browser and visit http://localhost:3000
 
