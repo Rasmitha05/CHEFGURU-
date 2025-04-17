@@ -13,7 +13,8 @@ CHEFGURU is an AI-powered recipe generator that helps users create custom recipe
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **AI & ML:** Language models for recipe generation  
-- **Other Tools:** Git, GitHub, Postman  
+- **Other Tools:** Git, GitHub
+- **LLM:** Python
 
 ## 🚀 Installation  
 Follow these steps to set up the project on your local machine:  
